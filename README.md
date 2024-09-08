@@ -1,11 +1,15 @@
 # Primary School Management System
 # Overview
-The Primary School Management System is a comprehensive application designed to manage various administrative tasks within a primary school. 
+The Primary School Management System is a comprehensive role based application designed to manage various administrative tasks within a primary school. 
 
 It provides functionalities for managing student and staff information, tracking attendance, and generating performance reports. This system is built using Java for application logic, with MySQL as the database, and Myphpadmin for database management.
 
 
 # Features
+
+
+Role Based- School Admin, Teacher, Student
+
 Student Management: Add, update, and manage student records including personal information, grades, and attendance.
 
 
